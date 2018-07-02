@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = "camille.lebruchec@gmail;com"
+	email = camille.lebruchec@gmail.com
 	name = Camille Le Bruchec
